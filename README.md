@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/devexperts/swagger-codegen-ts.svg?branch=master)](https://travis-ci.org/devexperts/swagger-codegen-ts)
 
-![awef](https://cdn.pixabay.com/photo/2017/11/14/13/06/kitty-2948404_960_720.jpg)
+![awef]([https://cdn.pixabay.com/photo/2017/11/14/13/06/kitty-2948404_960_720.jpg](https://gray-kalb-prod.cdn.arcpublishing.com/resizer/uHc0Io7tokW-epG1i20xND8zV2Q=/1200x675/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/JVOHA3G6AJIPXNJ3ATR2NBUEZQ.jpg))
 
 # Typesafe OpenAPI generator for TypeScript
 
