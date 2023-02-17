@@ -1,5 +1,7 @@
 [![Build Status](https://travis-ci.org/devexperts/swagger-codegen-ts.svg?branch=master)](https://travis-ci.org/devexperts/swagger-codegen-ts)
 
+![awef](https://cdn.pixabay.com/photo/2017/11/14/13/06/kitty-2948404_960_720.jpg)
+
 # Typesafe OpenAPI generator for TypeScript
 
 ## Features
