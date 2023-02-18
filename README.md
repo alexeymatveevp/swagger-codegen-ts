@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/devexperts/swagger-codegen-ts.svg?branch=master)](https://travis-ci.org/devexperts/swagger-codegen-ts)
 
-<img src="https://blog.soundcloud.com/wp-content/uploads/2011/11/kitten.jpg" alt="Employee data" width="50" height="60" title="Employee Data title">
+{`<img src="https://blog.soundcloud.com/wp-content/uploads/2011/11/kitten.jpg" alt="Employee data" width="50" height="60" title="Employee Data title">`}
 
 # Typesafe OpenAPI generator for TypeScript
 
